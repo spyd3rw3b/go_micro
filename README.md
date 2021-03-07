@@ -6,7 +6,7 @@ This project is a basic go microservice application pattern template. A REST API
 
 # To Do:
 - [X] Add Diagram
-- [] Add Features
-- [] Add sections
-- [] Add folder layout
+- [ ] Add Features
+- [ ] Add sections
+- [ ] Add folder layout
 
